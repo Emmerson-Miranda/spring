@@ -1,8 +1,8 @@
 # rabbitmq-client (Microservice)
 
-This PoC show how to listen/consume messages from RabbitMQ queues dynamically and when the message is pushing from the server, know from which queue the message comes.
+This PoC show how to listen/consume messages from RabbitMQ queues dynamically and how to know from which queue the the message is comming.
 
-##Features:
+## Features:
 - Swagger UI Console (http://localhost:8080/swagger-ui.html#/rabbitmq-client-controller)
 - Subscribe queues to listen dynamically
 - Un-subscribe queues to stop listening
